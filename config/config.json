@@ -1,0 +1,6 @@
+{
+    "shard_size": 262144,
+    "min_chunk_size": 32,
+    "max_chunk_size": 8192,
+    "fixed_chunk_size": 0
+}
